@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    background: #ECFDF5;
+    padding: 2em;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    text-align: left;
+}
+h2{
+    text-align: left;
+    color: #10B981;
+}
+#password-btn{
+    display: flex;
+
+    margin-bottom: 2em;
+    background: #10B981;
+    border: none;
+    color: white;
+    padding: 1em;
+    border-radius: 0.5em;
+}
+#password-btn:hover{
+    background: #ECFDF5;
+    color: black;
+}
+div{
+    background: #273549;
+    border: none;
+    color: #10B981;
+    margin: 4em auto;
+    padding: 1em;
+    display: inline;
+    border-radius: 0.5em;
+}
