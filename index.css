@@ -32,6 +32,8 @@ div{
     color: #10B981;
     margin: 4em auto;
     padding: 1em;
-    display: inline;
+    width:100px; 
+    max-width:1000px;
+    display: inline-block;
     border-radius: 0.5em;
 }
